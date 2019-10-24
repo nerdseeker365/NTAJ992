@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="F:/NATARAJ DVD 1 NEW/DataBase Softwares/Postgresql/postgresql-9.0.2-1-windows soft/postgresql-9.0-801.jdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/NATARAJ DVD 1 NEW/DataBase Softwares/MySQL/MySQL Software/jars/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/DesktopBackuponJan202019/Excel JDBC Driver/lib/Excel_JDBC30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/DesktopBackuponJan202019/TextFiles JDBC driver/lib/Text_JDBC30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-dbcp2-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/IDSServer/classes"/>
+	<classpathentry kind="lib" path="F:/NATARAJ DVD 1 NEW/JDBC Drivers/Type5 Driver for ORacle/oracle.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
